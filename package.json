@@ -1,0 +1,19 @@
+{
+  "name": "reddy",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+
+    
+   
+    
+    
+  },
+  "author": "Reddy",
+  "license": "ISC",
+  "dependencies": {
+    "safari": "^0.0.1",
+    "testcafe": "^3.5.0"
+  }
+}
