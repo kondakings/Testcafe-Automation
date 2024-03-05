@@ -13,8 +13,4 @@ test ('whill', async t => {
     await t.typeText(gmailpage.pass,"Reddy@1996");
     await t.click(gmailpage.check);
     await t.click(gmailpage.signin);
-    await t.wait(10000);
-
-
-
-});
+    });
