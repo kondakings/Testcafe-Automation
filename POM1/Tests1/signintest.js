@@ -26,9 +26,9 @@ test ('first pom',async t=>{
     await t.click(signinpage.promo);
     await t.click(signinpage.but);
     await t.click(signinpage.del);
-    //await t.click(signinpage.notes);
-    //await t.click(signinpage.plus);
-    //await t.typeText(signinpage.translate,"nikenduku ra gutle");
+    await t.click(signinpage.notes);
+    await t.click(signinpage.plus);
+    await t.typeText(signinpage.translate,"nikenduku ra gutle");
 
 
 
