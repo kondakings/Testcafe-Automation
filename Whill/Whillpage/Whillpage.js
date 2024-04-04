@@ -1,1 +1,1 @@
-import { t as Selector } from "testcafe";
+import { Selector } from "testcafe";
